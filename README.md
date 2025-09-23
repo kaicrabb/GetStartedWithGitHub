@@ -57,9 +57,9 @@ When used correctly, it can even help you in interviews/applying for jobs or int
 ### 10. Making changes in terminal
   -Once you've finished making the changes you want to make, git makes it very easy to push these changes up.
   
-  '''c
-  git add [filename]'
-  git commit - m [commit message]'
+  '''bash
+  git add [filename]
+  git commit - m [commit message]
   git push
   '''
 
