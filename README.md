@@ -35,7 +35,7 @@ I highly suggest this repo to practice coding with project-based learning: https
 ---
 
 ### 6. Pull Changes I Made
-  -I'm going to make a change to the files in this repo and I want you to pull the changes
+  -I'm going to make a change to the files in this repo, and I want you to pull the changes
 
 ---
 
