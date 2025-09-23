@@ -57,18 +57,18 @@ I highly suggest this repo to practice coding with project-based learning: https
 
 ### 10. Set Up SSH Keys in Linux
   
-  -Check out this website from Eloe, which shows how to set up your keys so that you can push from the terminal.<br>
+  Check out this website from Eloe, which shows how to set up your keys so that you can push from the terminal.<br>
   Website: https://neloe.github.io/course-info/operating-systems/github-ssh.html
 
 ---
 
 ### 9. Cloning a Repo from Terminal.
-  -I'll show you an example of how to clone this repo from the terminal (will have to have SSH keys to perform this step)
+  I'll show you an example of how to clone this repo from the terminal (will have to have SSH keys to perform this step)
 
 ---
 
 ### 10. Making Changes in Terminal
-  -Once you've finished making the changes you want to make, git makes it very easy to push these changes up.
+  Once you've finished making the changes you want to make, git makes it very easy to push these changes up.
   
   ```bash 
     git add [filename] 
@@ -76,11 +76,11 @@ I highly suggest this repo to practice coding with project-based learning: https
     git push 
   ```
 
-  -Following these steps will allow you to push your changes to your repo, and the changes will sync with your GitHub repo.
+  Following these steps will allow you to push your changes to your repo, and the changes will sync with your GitHub repo.
 
 ---
 
 ### 11. GitHub Pages
-  -You can even deploy your web-based repos to GitHub Pages for free if it's a public repository!<br>
+  You can even deploy your web-based repos to GitHub Pages for free if it's a public repository!<br>
   This is what I did with our Bug Hunt website from last meeting: https://kaicrabb.github.io/debug-quest/
   
