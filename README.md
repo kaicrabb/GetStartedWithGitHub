@@ -2,7 +2,7 @@
 
 GitHub is one of the most important tools in Computer Science.
 
-It allows us to effectively collaborate on projects with one another.
+It enables us to collaborate effectively on projects with one another.
 
 It's also a good way for us to showcase our projects/what we've been working on.
 
@@ -29,17 +29,17 @@ I highly suggest this repo to practice coding with project-based learning: https
 
 ---
 
-### 5. Making a Change to the files
+### 5. Making a Change to the Files
   -Make a change to the file and push the changes back using GitHub Desktop
 
 ---
 
-### 6. Pull changes I made
+### 6. Pull Changes I Made
   -I'm going to make a change to the files in this repo and I want you to pull the changes
 
 ---
 
-### 7. Overlapping changes
+### 7. Overlapping Changes
   -I'm going to demonstrate what happens if two people try to push changes at the same spot and how we can get around that.
 
 ---
@@ -50,12 +50,12 @@ I highly suggest this repo to practice coding with project-based learning: https
 
 ---
 
-### 9. Cloning a repo from terminal.
+### 9. Cloning a Repo from Terminal.
   -I'll show you an example of how to clone this repo from the terminal (will have to have SSH keys to perform this step)
 
 ---
 
-### 10. Making changes in terminal
+### 10. Making Changes in Terminal
   -Once you've finished making the changes you want to make, git makes it very easy to push these changes up.
   
   ```bash 
@@ -64,4 +64,11 @@ I highly suggest this repo to practice coding with project-based learning: https
     git push 
   ```
 
-  -Following these steps will allow you to push your changes to your repo, and changes will sync with your GitHub repo.
+  -Following these steps will allow you to push your changes to your repo, and the changes will sync with your GitHub repo.
+
+---
+
+### 11. GitHub Pages
+  -You can even deploy your web-based repos to GitHub Pages for free if it's a public repository!
+  This is what I did with our Bug Hunt website from last meeting: https://kaicrabb.github.io/debug-quest/
+  
