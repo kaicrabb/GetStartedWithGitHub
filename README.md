@@ -45,7 +45,7 @@ I highly suggest this repo to practice coding with project-based learning: https
 ---
 
 ### 8. Using Git
-  -Before GitHub, there was a tool called Git that allowed you to commit from the command line.
+  -Before GitHub, there was a tool called Git that allowed you to commit from the command line.<br>
   To use Git, install WSL on your laptop! This allows us to use Linux on our laptops.
 
   ```bash
@@ -80,6 +80,6 @@ I highly suggest this repo to practice coding with project-based learning: https
 ---
 
 ### 11. GitHub Pages
-  -You can even deploy your web-based repos to GitHub Pages for free if it's a public repository!
+  -You can even deploy your web-based repos to GitHub Pages for free if it's a public repository!<br>
   This is what I did with our Bug Hunt website from last meeting: https://kaicrabb.github.io/debug-quest/
   
