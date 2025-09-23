@@ -6,7 +6,8 @@ It allows us to effectively collaborate on projects with one another.
 
 It's also a good way for us to showcase our projects/what we've been working on.
 
-When used correctly, it can even help you in interviews/applying for jobs or internships.
+When used correctly, it can even help you in interviews/applying for jobs, or internships.
+I highly suggest this repo to practice coding with project-based learning: https://github.com/The-Cool-Coders/Project-Ideas-And-Resources?tab=readme-ov-file
 
 ### 1. Setting up GitHub Account (Use personal email)
   -Use this link: https://github.com/signup
