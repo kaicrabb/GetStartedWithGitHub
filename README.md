@@ -18,6 +18,7 @@ When used correctly, it can even help you in interviews/applying for jobs or int
 
 ---
 
-### 3. 
+### 3. GitHub Terminology
+  -Use this website to learn the basic things you can do in GitHub: https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github
 
 ---
