@@ -10,43 +10,44 @@ When used correctly, it can even help you in interviews/applying for jobs, or in
 I highly suggest this repo to practice coding with project-based learning: https://github.com/The-Cool-Coders/Project-Ideas-And-Resources?tab=readme-ov-file
 
 ### 1. Setting up GitHub Account (Use personal email)
-  -Use this link: https://github.com/signup
+  Use this link: https://github.com/signup
 
 ---
 
 ### 2. Download GitHub Desktop (makes for quick and easy commits to your repo)
-   -Use this link: https://desktop.github.com/download/
+   Use this link: https://desktop.github.com/download/
 
 ---
 
 ### 3. GitHub Terminology
-  -Use this website to learn the basic things you can do in GitHub: https://www.w3schools.com/git/git_intro.asp?remote=github
+  Use this website to learn the basic things you can do in GitHub: https://www.w3schools.com/git/git_intro.asp?remote=github
 
 ---
 
 ### 4. Cloning a Repository
-  -Clone this repo and make your own copy of this repository in GitHub Desktop
+  Clone this repo and make your own copy of this repository in GitHub Desktop
 
 ---
 
 ### 5. Making a Change to the Files
-  -Make a change to the file and push the changes back using GitHub Desktop
+  Make a change to the file and push the changes back using GitHub Desktop
 
 ---
 
 ### 6. Pull Changes I Made
-  -I'm going to make a change to the files in this repo, and I want you to pull the changes
+  I'm going to make a change to the files in this repo, and I want you to pull the changes
 
 ---
 
 ### 7. Overlapping Changes
-  -I'm going to demonstrate what happens if two people try to push changes at the same spot and how we can get around that.
+  I'm going to demonstrate what happens if two people try to push changes at the same spot and how we can get around that.
 
 ---
 
 ### 8. Using Git
-  -Before GitHub, there was a tool called Git that allowed you to commit from the command line.<br>
-  To use Git, install WSL on your laptop! This allows us to use Linux on our laptops.
+  Before GitHub, there was a tool called Git that allowed you to commit from the command line.<br>
+  To use Git, install WSL on your laptop! This allows us to use Linux on our laptops.<br>
+  Make sure you run Powershell as admin to run this command.
 
   ```bash
   wsl --install
