@@ -54,6 +54,13 @@ I highly suggest this repo to practice coding with project-based learning: https
 
 ---
 
+### 10. Set Up SSH Keys in Linux
+  
+  -Check out this website from Eloe, which shows how to set up your keys so that you can push from the terminal.
+  -Website: https://neloe.github.io/course-info/operating-systems/github-ssh.html
+
+---
+
 ### 9. Cloning a Repo from Terminal.
   -I'll show you an example of how to clone this repo from the terminal (will have to have SSH keys to perform this step)
 
