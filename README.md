@@ -56,8 +56,8 @@ When used correctly, it can even help you in interviews/applying for jobs or int
 
 ### 10. Making changes in terminal
   -Once you've finished making the changes you want to make, git makes it very easy to push these changes up.
-  1. git add [filename]
-  2. git commit - m [commit message]
-  3. git push
+  *'git add [filename]'
+  *'git commit - m [commit message]'
+  *'git push'
 
   -Following these steps will allow you to push your changes to your repo, and changes will sync with your GitHub repo.
