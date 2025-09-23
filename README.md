@@ -6,6 +6,8 @@ It enables us to collaborate effectively on projects with one another.
 
 It's also a good way for us to showcase our projects/what we've been working on.
 
+Hello there.
+
 When used correctly, it can even help you in interviews/applying for jobs, or internships.<br>
 I highly suggest this repo to practice coding with project-based learning: https://github.com/The-Cool-Coders/Project-Ideas-And-Resources?tab=readme-ov-file
 
