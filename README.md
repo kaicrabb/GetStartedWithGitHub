@@ -50,7 +50,7 @@ When used correctly, it can even help you in interviews/applying for jobs or int
 ---
 
 ### 9. Cloning a repo from terminal.
-  -I'll show you an example of how to clone this repo from the terminal
+  -I'll show you an example of how to clone this repo from the terminal (will have to have SSH keys to perform this step)
 
 ---
 
