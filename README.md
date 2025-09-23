@@ -46,7 +46,11 @@ I highly suggest this repo to practice coding with project-based learning: https
 
 ### 8. Using Git
   -Before GitHub, there was a tool called Git that allowed you to commit from the command line.
-  -You can download it here: https://git-scm.com/
+  To use Git, install WSL on your laptop! This allows us to use Linux on our laptops.
+
+  ```bash
+  wsl --install
+  ```
 
 ---
 
