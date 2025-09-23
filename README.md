@@ -63,7 +63,11 @@ I highly suggest this repo to practice coding with project-based learning: https
 ---
 
 ### 9. Cloning a Repo from Terminal.
-  I'll show you an example of how to clone this repo from the terminal (will have to have SSH keys to perform this step)
+  I'll show you an example of how to clone this repo from the terminal (you will have to have SSH keys to perform this step)
+
+  ```bash
+  git clone git@github.com:kaicrabb/GetStartedWithGitHub.git
+  ```
 
 ---
 
